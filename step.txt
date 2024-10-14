@@ -1,0 +1,38 @@
+Todo App
+
+project setup: Done
+Express setup: Done
+mongodb connection: Done
+
+Setup EJS: Done
+
+Register Page: Done
+Login Page: Done
+
+Register API
+Login API
+
+Session Base Auth
+middleware to protect API's
+
+Dasboard Page
+Logout
+Logout from all devices
+
+Todo API's 
+Create API
+read API
+edit API
+delete API
+
+Dasboard Client (axios)
+axios create API
+axios read API
+axios edit API
+axios delete API
+
+Pagination API
+RateLimitng
+Deploy
+
+Email Base Auth (JWT)
