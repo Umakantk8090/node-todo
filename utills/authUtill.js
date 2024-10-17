@@ -24,4 +24,4 @@ const isEmailValidate = ({ key }) => {
     });
   };
   
-  module.exports = { userDataValidate };
+  module.exports = { userDataValidate, isEmailValidate };
